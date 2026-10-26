@@ -1,0 +1,18 @@
+NOSSO AÇAI — CARDÁPIO DIGITAL
+
+ESTRUTURA DO PROJETO
+- index.html
+- css/style.css
+- js/app.js
+- assets/images/logo-nosso-acai.jpeg
+
+COMO ABRIR
+1. Extraia o ZIP inteiro para uma pasta.
+2. Abra a pasta nosso-acai-corrigido no VS Code.
+3. Abra o index.html usando a extensão Live Server (recomendado).
+   Alternativamente, dê dois cliques em index.html para abrir no navegador.
+
+IMPORTANTE
+Não mova o index.html para fora da pasta nem deixe o CSS, o JavaScript e o logotipo soltos em outras pastas. Os caminhos relativos do HTML dependem desta estrutura.
+
+O botão do WhatsApp está configurado para o número informado: 
